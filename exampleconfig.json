@@ -1,15 +1,15 @@
 {
-    "token": "TOKEN",
+    "token": "MTE0MjQ5MDA3OTYzMDIxNzIxNg.GHhbJ6.2N0zd47EHDn-Xs69B0_bWSKY8RqmMdkFBTOvAU",
     "server": {
-        "ip": "mc.hypixel.net",
-        "port": 25565
+        "ip": "play.snowmc.fun",
+        "port": 19132
     },
     "motd_pfp": true,
     "defPresence": {
         "status": "dnd",
         "activity": {
             "type": "PLAYING",
-            "name": "at mc.hypixel.net"
+            "name": "at Play.SnowMc.Fun"
         }
     },
     "updates": {
@@ -18,21 +18,21 @@
             "type": "WATCHING",
             "format": "%p% players",
             "offline": "🛑 0 players!",
-            "timeout": 10
+            "timeout": 5
         },
         "channel_name": {
             "enabled": true,
-            "channel_id": "CHANNEL_ID",
+            "channel_id": "1143070865328721991",
             "format": "📊 %p% online",
             "offline": "🛑 Offline",
-            "timeout": 300
+            "timeout": 200
         },
         "channel_description": {
             "enabled": true,
-            "channel_id": "CHANNEL_ID",
+            "channel_id": "1143070865328721991",
             "format": "📊 There are %p% people on the server! Join at mc.hypixel.net",
             "offline": "🛑 Server is currently offline!",
-            "timeout": 300
+            "timeout": 200
         }
     }
 }
